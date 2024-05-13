@@ -1,4 +1,4 @@
-Hi 👋 My name is Dimi
+Hi 👋 My name is Dimi & welcome to my profil! :) 
 =====================
 
 Aspiring Angular Frontend Developer
