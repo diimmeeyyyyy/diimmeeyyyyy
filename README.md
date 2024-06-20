@@ -1,7 +1,7 @@
 Hi 👋 My name is Dimi & welcome to my profil! :) 
 =====================
 
-Aspiring Angular Frontend Developer
+Aspiring Frontend Developer
 -----------------------------------
 
 Hello there! I'm currently immersed in the world of programming, dedicating myself full-time since September 2023 to mastering the craft. What initially sparked my journey was the desire to create a user-friendly website for my family's restaurant, where patrons could conveniently pre-order and pay for their meals. Prior to delving into the realms of coding, I spent six semesters studying German and Spanish in Bielefeld, Germany. However, I found the allure of programming far more captivating and decided to pivot towards this path—a decision I've never looked back on. Each day, I embrace the challenges and triumphs of this dynamic field with enthusiasm and determination.
