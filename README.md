@@ -8,7 +8,7 @@ Hi there! Since September 2023, I've been fully dedicated to learning programmin
 
 * 🌍  I'm based in Dortmund
 * ✉️  You can contact me at [dimitrioskapetanis1996@gmail.com](mailto:dimitrioskapetanis1996@gmail.com)
-* 🧠  I'm learning Angular & Typescript
+* 🧠  I'm learning Angular, React & Typescript
 
 ### Skills
 
