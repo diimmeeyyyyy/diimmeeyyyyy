@@ -7,7 +7,7 @@ Aspiring Frontend Developer
 Hi there! Since September 2023, I've been fully dedicated to learning programming. My journey began with the goal of creating a user-friendly website for my family's restaurant, allowing customers to pre-order and pay for their meals with ease. The decision to start coding has been immensely rewarding, and I face the daily challenges and successes in this dynamic field with great enthusiasm.
 
 * 🌍  I'm based near Dortmund, Germany
-* ✉️  You can contact me at [dimitrioskapetanis1996@gmail.com](mailto:dimitrioskapetanis1996@gmail.com)
+* ✉️  You can contact me at [info@dimitrios-kapetanis.com](mailto:dimitrioskapetanis1996@gmail.com)
 * 🧠  I'm learning Angular & Typescript
 
 ### Skills
