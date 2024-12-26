@@ -6,7 +6,7 @@ Frontend Developer
 
 
 * 🌍  I'm based near Dortmund, Germany
-* ✉️  You can contact me at [info@dimitrios-kapetanis.com](mailto:dimitrioskapetanis1996@gmail.com)
+* ✉️  You can contact me at dimitrioskapetanis1996@gmail.com
 * 🧠  I'm learning Angular & Typescript
 
 ### Skills
